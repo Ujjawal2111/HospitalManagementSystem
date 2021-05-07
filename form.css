@@ -1,0 +1,76 @@
+header{
+	
+	background: rgba(255,255,255,0.9);
+	padding: 1px;
+	font-size: 150%;
+	text-align: center;
+	font-weight: bold;
+	color:red;
+	margin: 0px;
+}
+
+nav{
+	background-color: rgba(255,255,255,0.7);
+	margin-top: 0px;
+	font-size: 130%;
+	font-weight: bold;
+	padding: 7px;
+}
+nav a{
+	padding-right:15px;
+	color: #38adf5;
+	margin: 0px;
+	text-decoration: none;
+	
+}
+nav a:hover{
+	font-size: 200%;
+}
+nav a.active{
+	background-color: red;
+}
+
+table{
+		background-color: rgba(255,255,255,0.7);
+		margin-top: 15px;
+		font-size: 130%;
+		border-style: solid;
+		border-radius: 50px;
+}
+
+td{
+	padding: 20px;
+}
+
+input{
+	font-size: 110%;
+}
+#submit{
+	margin-top: 25px;
+	font-size: 130%;
+}
+body{
+	background: url('bgimg.jpg');
+
+}
+.box{
+	background-color: rgba(255,255,255,0.6);
+	display: inline-block;
+	padding-right: 25px;
+	padding-left: 25px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+.box img{
+	height: 150px;
+}
+.icons a{
+	color: #38adf5;
+
+}
+.icons a:hover{
+	font-size: 150%;
+}
+.icons{
+	margin: 25px;
+}
